@@ -1,2 +1,3 @@
 Checking for git diff
 Added text in file
+test to diff
